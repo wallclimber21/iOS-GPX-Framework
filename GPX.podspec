@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author       = { "NextBusinessSystems Co., Ltd" => "" }
-  s.source       = { :git => "https://github.com/FLCLjp/iOS-GPX-Framework.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/wallclimber21/iOS-GPX-Framework.git", :tag => "1.0" }
   s.platform     = :ios, '4.0'
   
   s.source_files = 'GPX/**/*.{h,m}'
